@@ -7,7 +7,7 @@
 //
 
 
-//testing by
+//testing by m
 #import <UIKit/UIKit.h>
 #import "UIScrollView+UIScrollViewScrollingDirection.h"
 @interface SampleViewController : UIViewController
