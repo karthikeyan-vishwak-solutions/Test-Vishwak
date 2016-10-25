@@ -13,7 +13,7 @@
 @property (strong, nonatomic) UIWindow *window;
 //karthikeyan
 
-//tuesday not look good
+//tuesday not look good.....
 
 @end
 
